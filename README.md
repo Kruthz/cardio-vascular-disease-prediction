@@ -3,6 +3,9 @@
 ## Overview
 This project aims to develop a machine learning model to predict the risk of cardiovascular diseases (CVDs) based on various health-related features. Cardiovascular diseases are a leading cause of mortality globally, emphasizing the importance of early detection and risk assessment. By leveraging machine learning techniques, this project seeks to assist healthcare professionals in identifying individuals at higher risk of developing CVDs.
 
+## Dataset
+The dataset used is Farmingham CVD dataset can be downloaded at https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
+
 ## Features
 - **Data Preprocessing**: The dataset is loaded and preprocessed to handle missing values, outliers, and standardize features. Irrelevant attributes are removed, and rows with missing values are dropped.
 - **Exploratory Data Analysis (EDA)**: Visualizations are used to explore the distribution of data and relationships between features and the target variable.
